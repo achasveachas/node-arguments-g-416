@@ -1,4 +1,4 @@
-// console.log(process.argv)
+console.log(process.argv)
 var sum = 0
 process.argv.shift()
 process.argv.shift()
